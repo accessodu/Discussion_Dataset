@@ -11,3 +11,16 @@ In a user study with blind participants, we observed that compared to the status
 
 ## Citation
 If you use this work, please cite:
+
+```bibtex
+@article{sunkara2023enabling,
+  title={Enabling Customization of Discussion Forums for Blind Users},
+  author={Sunkara, Mohan and Prakash, Yash and Lee, Hae-Na and Jayarathna, Sampath and Ashok, Vikas},
+  journal={Proceedings of the ACM on Human-Computer Interaction},
+  volume={7},
+  number={EICS},
+  pages={1--20},
+  year={2023},
+  publisher={ACM New York, NY, USA}
+}
+```
