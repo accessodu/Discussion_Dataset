@@ -1,6 +1,6 @@
-#Enabling Customization of Discussion Forums for Blind Users
+# Enabling Customization of Discussion Forums for Blind Users
 
-##Abstract
+## Abstract
 Online discussion forums have become an integral component of news, entertainment, information, and
 
 video-streaming websites, where people all over the world actively engage in discussions on a wide range
